@@ -1,8 +1,0 @@
-.DS_Store
-__pycache__/
-*.pyc
-.venv/
-venv/
-.env
-claude_results.csv
-claude_wrong_only.csv
